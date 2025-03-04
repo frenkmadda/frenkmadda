@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=015ee1&width=435&lines=Hi+I+am+Francesco;I+love+AI+and+I+am+one+with+doggos;Check+my+profile;Enjoy+<3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Play&pause=200&color=015ee1&width=435&lines=Hi+I+am+Francesco!;I+love+AI+🖳+,+Gaming+🎮+and+I+am+one+with+Doggos!+🐶🐾🌱;)](https://git.io/typing-svg)
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=frenkmadda&show_icons=true&count_private=true&theme=transparent&hide_border=true&hide=issues,contribs&bg_color=00000000">
@@ -20,7 +20,9 @@
 # About me
 Hi All! I am Francesco a Data Science And Machine Learning Master Student currently enrolled at <a href="https://www.unisa.it">Unisa</a>
 <br>
-
+<br>
+![Alt text](image.png)
+<img src = img/ width = "600" height = "400"/>
 
 # Contacts and Socials:
 <a href="https://www.linkedin.com/in/francesco-maddaloni-743400208/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a><br>
