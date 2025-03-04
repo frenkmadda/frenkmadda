@@ -1,9 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I+am+Francesco;I+love+IA+and+I+am+one+with+doggos;Check+my+profile;Enjoy+<3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=015ee1&width=435&lines=Hi+I+am+Francesco;I+love+AI+and+I+am+one+with+doggos;Check+my+profile;Enjoy+<3)](https://git.io/typing-svg)
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=frenkmadda&show_icons=true&count_private=true&theme=transparent&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=frenkmadda&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=frenkmadda&theme=tokyonight&hide_border=true&background=FFFFFF00">
   <br>
   <br>
 </p>
