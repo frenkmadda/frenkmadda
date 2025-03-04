@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Play&pause=200&color=015ee1&width=435&lines=Hi+I+am+Francesco!;I+love+AI+🖳+,+Gaming+🎮+and+I+am+one+with+Doggos!+🐶🐾🌱;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Play&pause=1000&color=015ee1&width=435&lines=Hi+I+am+Francesco!;I+love+AI+💻+and+I+am+one+with+Doggos!+🐶🐾🌱;)](https://git.io/typing-svg)
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=frenkmadda&show_icons=true&count_private=true&theme=transparent&hide_border=true&hide=issues,contribs&bg_color=00000000">
@@ -22,7 +22,7 @@ Hi All! I am Francesco a Data Science And Machine Learning Master Student curren
 <br>
 I Love working and messing with datas and I am always eager to learn and explore the world of AI as it evolves and trasforms during the years.
 <br>
-What else could I say...Well the best way to describe me as person is leaving you to this personal quote in which I firmly believe.
+What else could I say. Well the best way to describe me as person is leaving you with this personal quote in which I firmly believe.
 <br>
 
 <img src = img/quote.jpg width = "300" height = "300"/>
