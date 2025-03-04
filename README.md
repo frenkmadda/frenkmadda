@@ -20,9 +20,12 @@
 # About me
 Hi All! I am Francesco a Data Science And Machine Learning Master Student currently enrolled at <a href="https://www.unisa.it">Unisa</a>
 <br>
+I Love working and messing with datas and I am always eager to learn and explore the world of AI as it evolves and trasforms during the years.
 <br>
-![Alt text](image.png)
-<img src = img/ width = "600" height = "400"/>
+What else could I say...Well the best way to describe me as person is leaving you to this personal quote in which I firmly believe.
+<br>
+
+<img src = img/quote.jpg width = "300" height = "300"/>
 
 # Contacts and Socials:
 <a href="https://www.linkedin.com/in/francesco-maddaloni-743400208/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a><br>
