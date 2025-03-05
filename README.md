@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Play&pause=1000&color=015ee1&width=435&lines=Hi+I+am+Francesco!;I+love+AI+💻+and+I+am+one+with+Doggos!+🐶🐾🌱;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Play&pause=1000&color=015ee1&width=435&lines=Hi+I+am+Francesco!​👋;I+love+AI+💻+and+I+am+one+with+Doggos!+🐶🐾🌱;)](https://git.io/typing-svg)
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=frenkmadda&show_icons=true&count_private=true&theme=transparent&hide_border=true&hide=issues,contribs&bg_color=00000000">
@@ -27,5 +27,7 @@ What else could I say. Well the best way to describe me as a person is leaving y
 
 <img src = img/quote.jpg width = "300" height = "300"/>
 
-# Contacts and Socials:
-<a href="https://www.linkedin.com/in/francesco-maddaloni-743400208/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a><br>
+# Contacts:
+<a href ="https://www.linkedin.com/in/francesco-maddaloni-743400208/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" height="40">
+ </a><br>
