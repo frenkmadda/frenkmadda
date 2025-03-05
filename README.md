@@ -22,7 +22,7 @@ Hi All! I am Francesco a Data Science And Machine Learning Master Student curren
 <br>
 I Love working and messing with datas and I am always eager to learn and explore the world of AI as it evolves and trasforms during the years.
 <br>
-What else could I say. Well the best way to describe me as person is leaving you with this personal quote in which I firmly believe.
+What else could I say. Well the best way to describe me as a person is leaving you with this personal quote in which I firmly believe.
 <br>
 
 <img src = img/quote.jpg width = "300" height = "300"/>
